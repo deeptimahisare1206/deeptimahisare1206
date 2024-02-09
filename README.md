@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h2 align="center">Hi 👋! My name is Deepti and I'm a Computer Science student, from Indore</h2>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=dark&show_icons=true)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptimahisare1206&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=neon&show_icons=true)
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptimahisare1206&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=neon&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/deeptimahisare1206/deeptimahisare1206/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
