@@ -1,65 +1,24 @@
+# 💫 About Me:
+Hi 👋! My name is Deepti.<br>I'm a Computer Science student, from Indore
 
-<!--
-**/deeptimahisare1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepti__goldi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/deepti-mahisare) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">Hi 👋! My name is Deepti and I'm a Computer Science student, from Indore</h2>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deeptimahisare1206&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptimahisare1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=neon&show_icons=true)
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptimahisare1206&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=neon&hide_border=false" height="200" alt="languages graph"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deeptimahisare1206&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deeptimahisare1206&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
+[![](https://visitcount.itsvg.in/api?id=deeptimahisare1206&icon=2&color=5)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="deeptimahisare@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/deepti-mahisare-076650234/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-<!--
-<img src="https://raw.githubusercontent.com/deeptimahisare1206/deeptimahisare1206/output/snake.svg" alt="Snake animation" />
--->
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
