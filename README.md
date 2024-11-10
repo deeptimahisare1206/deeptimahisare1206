@@ -9,7 +9,7 @@ Hi 👋! My name is Deepti.<br>I'm a Computer Science student, from Indore
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deeptimahisare1206&theme=github_dark&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deeptimahisare1206&theme=highcontrast&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptimahisare1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
