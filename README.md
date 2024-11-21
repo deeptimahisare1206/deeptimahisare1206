@@ -1,5 +1,38 @@
-# 💫 About Me:
-Hi 👋! My name is Deepti.<br>I'm a Computer Science student, from Indore
+
+<div class="a-main" id="about">
+        <div class="title" style={{ textAlign: "center",marginBottom:"1rem" }}>
+          <span>
+         <MdOutlinePersonOutline /><h1># 💫 About Me:</h1></span>
+        </div>
+        <div class="awrite">
+          <div class="aleft">
+          </div>
+          <div class="aright">
+            <span class="atext">
+              <h2>I'm Deepti</h2>
+              <h3>A Fast Learner Student</h3>
+              <p>
+                I’m 3rd year student of Computer Science Engineering at LNCT,
+                Indore, secured 8.20 CGPA in academics. My skills include
+                programming languages like C++, HTML, CSS, PYTHON, REACTJs, and
+                currently working on Java. I had completed a training program
+                from makerspace technology (BECIL) on MERNSTACK. I’m passionate
+                about sketching and drawing in my spare time. I'm always eager
+                to learn to develop my skills to the fullest and working
+                collaboratively with others to achieve success.
+              </p>
+              <span>
+                <label>E-mail: </label>
+                deeptimahisare@gmail.com
+              </span>
+              <span>
+                <label>Place: </label>
+                Indore, Madhya Pradesh(452001)
+              </span>
+            </span>
+          </div>
+        </div>
+      </div>
 
 
 ## 🌐 Socials:
