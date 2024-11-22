@@ -11,16 +11,10 @@
             <span class="atext">
               <h2>I'm Deepti</h2>
               <h3>A Fast Learner Student</h3>
-              <p>
-                I’m 3rd year student of Computer Science Engineering at LNCT,
-                Indore, secured 8.20 CGPA in academics. My skills include
-                programming languages like C++, HTML, CSS, PYTHON, REACTJs, and
-                currently working on Java. I had completed a training program
-                from makerspace technology (BECIL) on MERNSTACK. I’m passionate
-                about sketching and drawing in my spare time. I'm always eager
-                to learn to develop my skills to the fullest and working
-                collaboratively with others to achieve success.
-              </p>
+              <h6>
+              I’m a student of Computer Science Engineering at LNCT, Indore, secured 8.10 CGPA in academics.
+I am eager to kick-start my career in the field of web development. I possess foundational knowledge of HTML, CSS, and JavaScript, gained through academic projects and hands-on training. I am passionate about creating modern and responsive websites and applications. I am currently honing my skills in front-end frameworks like React.js and exploring back-end technologies such as Java. I am a quick learner, detail-oriented, and committed to continuous learning and growth in the web development domain. I am excited about the opportunity to contribute my skills and enthusiasm to a development team.
+              </h6>
               <span>
                 <label>E-mail: </label>
                 deeptimahisare@gmail.com
