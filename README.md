@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Deepti<br>A Fast Learner Student<br>I’m a student of Computer Science Engineering at LNCT, Indore, secured 8.10 CGPA in academics. I am eager to kick-start my career in the field of web development. I possess foundational knowledge of HTML, CSS, and JavaScript, gained through academic projects and hands-on training. I am passionate about creating modern and responsive websites and applications. I am currently honing my skills in front-end frameworks like React.js and exploring back-end technologies such as Java. I am a quick learner, detail-oriented, and committed to continuous learning and growth in the web development domain. I am excited about the opportunity to contribute my skills and enthusiasm to a development team.<br>E-mail: deeptimahisare@gmail.com Place: Indore, Madhya Pradesh(452001)
+I'm Deepti<br>A Fast Learner Student<br>I’m a student of Computer Science Engineering at LNCT, Indore, secured 8.02 CGPA in academics. I am eager to kick-start my career in the field of web development. I possess foundational knowledge of HTML, CSS, and JavaScript, gained through academic projects and hands-on training. I am passionate about creating modern and responsive websites and applications. I am currently honing my skills in front-end frameworks like React.js and exploring back-end technologies such as Java. I am a quick learner, detail-oriented, and committed to continuous learning and growth in the web development domain. I am excited about the opportunity to contribute my skills and enthusiasm to a development team.<br>E-mail: deeptimahisare@gmail.com Place: Indore, Madhya Pradesh(452001)
 
 
 ## 🌐 Socials:
@@ -9,7 +9,7 @@ I'm Deepti<br>A Fast Learner Student<br>I’m a student of Computer Science Engi
 [![My Skills](https://skillicons.dev/icons?i=css,html,java,react,spring,tailwind,mysql,postman,hibernate,vscode,vite,&perline=20)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deeptimahisare1206&theme=neon&hide_border=false&card_width=500&card_height=400&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deeptimahisare1206&theme=neon&card_width=500&card_height=400&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deeptimahisare1206&theme=neon&card_width=500&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptimahisare1206&theme=neon&card_width=500&card_height=400&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
