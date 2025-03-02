@@ -9,11 +9,11 @@ I'm Deepti<br>A Fast Learner Student<br>I’m a student of Computer Science Engi
 [![My Skills](https://skillicons.dev/icons?i=css,html,java,react,spring,tailwind,mysql,postman,hibernate,vscode,vite,&perline=20)](https://skillicons.dev)
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/deeptimahisare1206?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deeptimahisare1206&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deeptimahisare1206&theme=neon)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeptimahisare1206&theme=neon&card_width=500&card_height=400&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deeptimahisare1206&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=deeptimahisare1206&theme=darkhub&margin-w=15&margin-h=15&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deeptimahisare1206&card_width=600&limit=5&theme=neon&combine_all_yearly_contributions=true)
