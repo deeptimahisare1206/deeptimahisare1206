@@ -67,9 +67,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deeptimahisare1206" alt="Profile Views"/>
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=deeptimahisare1206&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Footer -->
 <p align="center">
