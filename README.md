@@ -1,4 +1,13 @@
-<h1 align="center">🚀 Deepti Mahisare</h1>
+<!-- Profile Header with Animated Capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Deepti%20Mahisare&fontSize=30&fontColor=ffffff" alt="🚀 Deepti Mahisare">
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/deeptimahisare1206" width="150" height="150" style="border-radius: 50%;" alt="Deepti Mahisare">
+</p>
+
 <h3 align="center"> Computer Science Engineer | Java Enthusiast</h3>
 
 <p align="center">
@@ -59,10 +68,10 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=deeptimahisare1206&icon=7&color=6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=deeptimahisare1206" alt="Profile Views"/>
 </p>
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Footer -->
+<p align="center">
+  <i>Crafted with ❤️ by Deepti Mahisare</i>
+</p>
