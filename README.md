@@ -1,14 +1,7 @@
 <!-- Profile Header with Animated Capsule -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Deepti%20Mahisare&fontSize=30&fontColor=ffffff" alt="🚀 Deepti Mahisare">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Deepti%20Mahisare&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Deepti Mahisare">
 </p>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/deeptimahisare1206" width="150" height="150" style="border-radius: 50%;" alt="Deepti Mahisare">
-</p>
-
-<h3 align="center"> Computer Science Engineer | Java Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
@@ -64,13 +57,7 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=deeptimahisare1206&card_width=600&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </p>
-
----
-
-
-[![](https://visitcount.itsvg.in/api?id=deeptimahisare1206&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Footer -->
 <p align="center">
-  <i>Crafted with ❤️ by Deepti Mahisare</i>
+  <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤️%20by%20Deepti%20Mahisare&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Deepti Mahisare"></i>
 </p>
