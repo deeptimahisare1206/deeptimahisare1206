@@ -11,7 +11,7 @@
 
 ### 💫 About Me
 🎓 I’m a Computer Science Engineering graduate (CGPA: **8.27**) with a strong interest in building efficient and scalable software systems.  
-🧠 I specialize in **Java**, **Spring Boot**, and **Hibernate**, with hands-on experience integrating **ReactJS** frontends with robust **RESTful APIs**.  
+🧠 I foundation in **Java**, **Spring Boot**, and **Hibernate**, with hands-on experience integrating **ReactJS** frontends with robust **RESTful APIs**.  
 🔍 I'm currently diving deeper into **full-stack development**, polishing my skills and learning new tech every day.  
 💼 I enjoy working on collaborative projects that solve real-world problems and contribute to impactful development.  
 📬 Reach me at: **deeptimahisare@gmail.com**
