@@ -1,4 +1,4 @@
-<!-- Profile Header with Animated Capsule -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Deepti%20Mahisare&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Deepti Mahisare">
 </p>
