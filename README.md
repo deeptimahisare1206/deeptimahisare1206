@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
 </p>
-### 💫 About Me
+
+## 💫 About Me
 🎓 I’m a Computer Science Engineering graduate (CGPA: **8.27**) with a strong interest in building efficient and scalable software systems.  
 🧠 I foundation in **Java**, **Spring Boot**, and **Hibernate**, with hands-on experience integrating **ReactJS** frontends with robust **RESTful APIs**.  
 🔍 I'm currently diving deeper into **full-stack development**, polishing my skills and learning new tech every day.  
@@ -16,11 +17,11 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
+<!-- <p align="left"> -->
   <a href="https://www.linkedin.com/in/deepti-mahisare" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+<!-- </p> -->
 
 ---
 
