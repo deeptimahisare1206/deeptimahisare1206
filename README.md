@@ -5,9 +5,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
+  
 </p>
 
 ## 💫 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrZXExcHc0azhobHcxNzJzNTdpNWVuajd5OXpqZDRqdG50NDBmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 I’m a Computer Science Engineering graduate (CGPA: **8.27**) with a strong interest in building efficient and scalable software systems.  
 🧠 I have foundation in **Java**, **Spring Boot**, and **Hibernate**, with hands-on experience integrating **ReactJS** frontends with robust **RESTful APIs**.  
 🔍 I'm currently diving deeper into **full-stack development**, polishing my skills and learning new tech every day.  
