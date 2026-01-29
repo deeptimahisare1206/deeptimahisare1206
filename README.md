@@ -16,7 +16,7 @@
 🧠 I have foundation in **Java**, **Spring Boot**, and **Hibernate**, with hands-on experience integrating **ReactJS** frontends with robust **RESTful APIs**.  
 🔍 I'm currently diving deeper into **full-stack development**, polishing my skills and learning new tech every day.  
 💼 I enjoy working on collaborative projects that solve real-world problems and contribute to impactful development.  
-📬 Reach me at: **deeptimahisare@gmail.com**
+📬 Reach me at: **deeptimahisare@gmail.com** or **https://www.linkedin.com/in/deepti-mahisare**
 
 ---
 
