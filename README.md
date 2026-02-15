@@ -60,7 +60,9 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=deeptimahisare1206&card_width=600&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </p>
-<!-- Footer -->
+
+---
+
 <p align="center">
   <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤️%20by%20Deepti%20Mahisare&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Deepti Mahisare"></i>
 </p>
