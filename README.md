@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Statistics 
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/deeptimahisare1206?cardType=level-alternate&theme=dark&preferLogin=false" alt="Awesome Stats"/>
