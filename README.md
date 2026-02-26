@@ -8,7 +8,7 @@
   
 </p>
 
-## 💫 About Me
+## About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hrZXExcHc0azhobHcxNzJzNTdpNWVuajd5OXpqZDRqdG50NDBmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
